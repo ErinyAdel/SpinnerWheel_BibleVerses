@@ -615,7 +615,6 @@ if __name__ == "__main__":
     SpinnerWheel.run()
 """
 
-
 import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageDraw, ImageTk, ImageFont
